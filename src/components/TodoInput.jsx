@@ -1,4 +1,4 @@
-export function AddTodo() {
+export function TodoInput() {
   return (
     <div className="join">
       <label className="input">
