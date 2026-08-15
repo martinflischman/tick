@@ -1,7 +1,9 @@
+import { AddTodo } from "./components/AddTodo";
+
 export default function App() {
   return (
     <div className="min-h-screen p-8">
-      <h1 className="text-3xl font-bold">Hello</h1>
+      <AddTodo />
     </div>
   );
 }
